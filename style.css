@@ -170,6 +170,7 @@ p {
 
 .intro__background {
   position: absolute;
+  display: none;
 }
 
 .intro__background1 {
